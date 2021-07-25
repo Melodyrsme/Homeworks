@@ -1,6 +1,6 @@
-package dao;
+package com.company.dao;
 
-import model.News;
+import com.company.model.News;
 
 import java.util.List;
 

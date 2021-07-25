@@ -1,8 +1,8 @@
-package dao.impl;
+package com.company.dao.impl;
 
-import dao.BaseDao;
-import dao.NewsDao;
-import model.News;
+import com.company.dao.BaseDao;
+import com.company.dao.NewsDao;
+import com.company.model.News;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

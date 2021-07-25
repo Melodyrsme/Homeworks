@@ -1,6 +1,6 @@
-package branch;
+package com.company.branch;
 
-import dao.NewsDao;
+import com.company.dao.NewsDao;
 
 public class CreateNews {
     private void addedNews(NewsDao newsDao) {
